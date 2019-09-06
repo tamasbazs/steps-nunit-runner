@@ -47,7 +47,7 @@ const (
 
 	// Testing frameworks
 	referenceXamarinUITestPattern = `(?i)Include="Xamarin.UITest`
-	referenceNunitFramework       = `(?i)Include="nunit`
+	referenceNunitFramework       = `(?i)Include="nunit"`
 	referenceNunitLiteFramework   = `(?i)Include="MonoTouch.NUnitLite`
 )
 
